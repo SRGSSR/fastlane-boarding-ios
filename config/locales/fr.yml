@@ -20,7 +20,7 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 fr:
-  testflight_detail_1: "Vous allez recevoir un email d'Apple pour ouvrir ou télécharger l'application TestFlight."
+  testflight_detail_1: "Vous pouvez vous inscrire au programme de beta. Vous recevrez alors un email d'Apple pour ouvrir ou télécharger l'application TestFlight."
   testflight_detail_2: "Avec l'application TestFlight d'Apple, vous pourrez accepter l'invitation de la beta %{title} et gérer son installation."
   first_name_label: "Prénom:"
   first_name_placeholder: "Prénom"
