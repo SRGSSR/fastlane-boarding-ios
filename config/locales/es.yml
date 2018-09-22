@@ -20,6 +20,8 @@
 # available at http://guides.rubyonrails.org/i18n.html.
 
 es:
+  testflight_detail_1: "You'll receive an email from Apple to open or download the TestFlight application."
+  testflight_detail_2: "With the Apple TestFlight application, you'll be able to accept the %{title} beta invitation and manage its installation."
   first_name_label: "Nombre:"
   first_name_placeholder: "Nombre"
   last_name_label: "Apellidos:"

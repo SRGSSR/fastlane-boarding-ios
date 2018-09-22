@@ -23,6 +23,9 @@
 
   <% unless @message %>
     <h4 class="" style="margin-bottom: 40px;"><%= @metadata[:title] %></h4>
+    
+    <p class="" style="text-align: left"><%= t(:testflight_detail_1) %></p>
+    <p class="" style="text-align: left; margin-bottom: 40px;"><%= t(:testflight_detail_2, title:@metadata[:title]) %></p>
 
     <%= form_tag("submit", method: "post", style: "text-align: left", onsubmit: "didSubmit()") do %>
       <%= label_tag(:first_name, t(:first_name_label)) %>
